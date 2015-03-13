@@ -3,7 +3,6 @@ library(igraph)
 library(maptools)
 
 # chargement des données 
-# téléchargeables ici : http://wukan.ums-riate.fr/flow/dep.RData
 load("data/dep.RData")
 
 # extraction des coordonnées des centroides des departements
